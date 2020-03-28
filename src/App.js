@@ -37,10 +37,11 @@ import "./style.css"
 //         {
 //           id: 1,
 //           cargo: 'Front',
-//           periodo: 'Agosto 2019 - Atualmente',
+//           periodo: 'Agosto 2019',
 //           empresa: 'NASA',
 //           local: 'Nova York',
-//           conteudo: 'Fazia nada e ganhava bem'
+//           conteudo: 'Fazia nada e ganhava bem',
+//           atual: true
 //         },
 //         {
 //           id: 2,
@@ -48,7 +49,8 @@ import "./style.css"
 //           periodo: 'Agosto 2018 - Agosto 2019',
 //           empresa: 'CIA',
 //           local: 'Boston',
-//           conteudo: 'Fazia nada e ganhava mal'
+//           conteudo: 'Fazia nada e ganhava mal',
+//           atual: false
 //         }
 //       ]
 //     }
@@ -135,6 +137,8 @@ function App() {
             Fazia menos
         </p>
         </div>
+
+        <button>Mostrar atual</button>
       </div>
     </main>
   );
