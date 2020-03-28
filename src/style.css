@@ -27,6 +27,21 @@ main {
     'education-sidebar experience experience'
 }
 
+button {
+  background: #d7b22a;
+    border: none;
+    padding: 5px;
+    font-size: 20px;
+    color: #fff;
+    box-shadow: -1px 3px 7px 0px #ccc;
+    transition: all 0.2s ease;
+    cursor: pointer;
+}
+
+button:hover {
+  box-shadow: none;
+}
+
 aside {
   background-color: #2b2b30;
 }
