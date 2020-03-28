@@ -10,6 +10,7 @@ npm start
 ```
 
 * Abra o projeto no visual studio code
-* Quebre o arquivo app.js em componentes ( no mínimo 3)
+* Quebre o arquivo app.js em componentes de classe ou de função (no mínimo 3 componentes)
 * Use o state comentado em app no seu componente de classe
+* Insira um evento de click no botão "mostrar atual" e só mostre a experiencia atual ao clicar ali (use a renderização condicional)
 * Suba no github o seu projeto
