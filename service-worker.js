@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/women-can-code-aula18-projeto-react/precache-manifest.f58d49f4bac61044b7f1e13aa4600160.js"
+  "/women-can-code-aula18-projeto-react/precache-manifest.32a694b0cdfa02c1003789e7054e4f7c.js"
 );
 
 self.addEventListener('message', (event) => {
